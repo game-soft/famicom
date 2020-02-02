@@ -8,7 +8,7 @@
     "lib/",
     "data/soft_list.js"
   ],
-  "repository": "webcyou-org/famicom-soft-list",
+  "repository": "game-soft/famicom",
   "author": "daisuke.takayama",
   "license": "MIT",
   "ignore": [
