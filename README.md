@@ -1,8 +1,8 @@
 ## Famicom Soft List
 ### Famicom （NES） soft list of release dates
 
-[![NPM Version](https://img.shields.io/npm/v/famicon-soft-list.svg)](https://www.npmjs.com/package/famicon-soft-list)
-[![NPM Downloads](http://img.shields.io/npm/dm/famicon-soft-list.svg)](https://www.npmjs.com/package/famicon-soft-list)
+[![NPM Version](https://img.shields.io/npm/v/@game-soft/famicom.svg)](https://www.npmjs.com/package/@game-soft/famicom)
+[![NPM Downloads](http://img.shields.io/npm/dm/@game-soft/famicom.svg)](https://www.npmjs.com/package/@game-soft/famicom)
 
 ![nintendo-family-computer](https://user-images.githubusercontent.com/1584153/69917001-0c7e8900-14a5-11ea-84aa-a0d029201aee.jpg)
 
