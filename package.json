@@ -1,5 +1,5 @@
 {
-  "name": "famicon-soft-list",
+  "name": "@game-soft/famicom",
   "version": "0.1.0",
   "main": "lib/main.js",
   "description": "Famicom（NES）soft list of release dates",
